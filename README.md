@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mikołaj</h1>
+<h1 align="center">Hello, I'm Mikołaj</h1>
 <h3 align="center">An ambitious programming student from Poland</h3>
 
 - 🌱 I’m currently learning **indepth python**
