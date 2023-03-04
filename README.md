@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 📗 My DataCamp profile **https://www.datacamp.com/profile/266858-71679ced-b5cb-4d2c-9ad9-ab0749527859**
+- 📗 My DataCamp profile **https://www.datacamp.com/profile/TytanMikJas**
 
 - 📫 How to reach me **mikjas02@gmail.com**
 
