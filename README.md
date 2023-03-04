@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Mikołaj</h1>
 <h3 align="center">An ambitious programming student from Poland</h3>
 
-- 🌱 I’m currently learning **indepth python**
+- 🌱 I’m currently learning **machine learning**
 
 - 📫 How to reach me **mikjas02@gmail.com**
 
