@@ -12,7 +12,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  [![My Skills](https://skillicons.dev/icons?i=py,pytorch,linux,git,java,cpp)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,linux,git,java,cpp" />
+  </a>
 </p> 
 </a> 
 </p>
