@@ -4,8 +4,11 @@
 - 🌱 I’m currently learning **deep learning**
 
 - 📫 How to reach me **mikjas02@gmail.com**
+
+- 💼 My Linkedin https://www.linkedin.com/in/mikołaj-jastrzębski/
   
 - 🏆 My LeetCode profile https://leetcode.com/TytanMikJas/
+  
 
 <p align="left">
 </p>
