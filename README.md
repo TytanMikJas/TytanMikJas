@@ -16,7 +16,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,linux,git,java,cpp" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,linux,git,java,cpp"/>
+    <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" width="52" height="52" />
   </a>
 </p> 
 </a> 
