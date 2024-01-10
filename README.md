@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Mikołaj</h1>
 <h3 align="center">An ambitious programming student from Poland</h3>
 
-- 🌱 I’m currently working on a research paper on **EMG signal analysis** and **Medical Images Impainting**.
+- 🌱 I’m currently working on a research paper on **Medical Images Impainting** and Project for **Polish Development Fund + City Bieruń**.
 
 - 📫 How to reach me **mikjas02@gmail.com**
 
