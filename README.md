@@ -8,19 +8,23 @@
 - 💼 My Linkedin https://www.linkedin.com/in/mikołaj-jastrzębski/
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<br>
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
     <p> In the science club </p>
-      <a href="https://skillicons.dev">
+    <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=py,pytorch,linux"/>
-      </a>
+    </a>
+    <br>
+    <br>
     <p> At the university </p>
-      <a href="https://skillicons.dev">
+    <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=cs,cpp,java,spring,mysql"/>
         <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" width="52" height="52" />
-      </a>
+    </a>
+    <br>
+    <br>
     <p> For Bieruń web project </p>
-      <a href="https://skillicons.dev">
+    <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=ts,js,remix,vite,tailwind,react,git"/>
-      </a>
-</p> 
-
+    </a>
+</div>
