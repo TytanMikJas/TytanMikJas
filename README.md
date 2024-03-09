@@ -25,6 +25,6 @@
     <br>
     <p> For Polish Development Fund + Bieruń web project </p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,js,remix,vite,tailwind,react,git"/>
+        <img src="https://skillicons.dev/icons?i=ts,js,tailwind,react,git"/>
     </a>
 </div>
