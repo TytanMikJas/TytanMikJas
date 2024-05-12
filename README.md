@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Mikołaj</h1>
 <h3 align="center">An ambitious programming student from Poland</h3>
 
-- 🌱 I’m currently working on a research paper on **Medical Images Impainting** and Project for **Polish Development Fund + City Bieruń**.
+- 🌱 I’m currently working on a research paper on **EMG Signal Analysis** and Project for **Polish Development Fund + City Bieruń**.
 
 - 📫 How to reach me **mikjas02@gmail.com**
 
@@ -18,13 +18,13 @@
     <br>
     <p> At the university </p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cs,cpp,java,kotlin,spring,mysql"/>
+        <img src="https://skillicons.dev/icons?i=java,spring,mysql,kotlin,cs,cpp"/>
         <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" width="52" height="52" />
     </a>
     <br>
     <br>
     <p> For Polish Development Fund + Bieruń web project </p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,js,tailwind,react,git"/>
+        <img src="https://skillicons.dev/icons?i=ts,tailwind,react,git"/>
     </a>
 </div>
