@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Mikołaj</h1>
 <h3 align="center">An ambitious programming student from Poland</h3>
 
-- 🌱 I’m currently working on a research paper on **EMG Signal Analysis** and Project for **Polish Development Fund + City Bieruń**.
+- 🌱 I’m currently studying Artificial Inteligence in Wrocław
 
 - 📫 How to reach me **mikjas02@gmail.com**
 
