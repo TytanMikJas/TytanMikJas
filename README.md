@@ -3,8 +3,6 @@
 
 <p align="center">
 🎓 AI Master's Student @ <strong>Wrocław University of Science and Technology</strong><br>
-🏆 Top 1 in admission ranking • 6x Rector’s Scholarship recipient<br>
-🧠 Passionate about deep learning, real-world challenges, and building things that matter
 </p>
 
 ---
@@ -20,10 +18,10 @@ I'm an ambitious computer science student from Poland with a passion for **Artif
 | Area | Tools |
 |------|-------|
 | **Machine Learning** | Python · PyTorch · TensorFlow · Keras · NumPy · pandas · Scikit-learn |
-| **AI Techniques** | CNN · LSTM · Siamese Networks · NLP · Computer Vision · Deep Learning · GEN-AI|
-| **Web & Fullstack** | React · Angular · TypeScript · TailwindCSS · Docker · Azure · AWS|
-| **Backend** | Java · Typescript · NestJS · Spring Boot · PostgreSQL · Kotlin · C++ · C# · Python |
-| **Tools & DevOps** | DVC · W&B · Git · GitLab · Linux · CI/CD Basics |
+| **AI Techniques** | Computer Vision · NLP · Deep Learning · GEN-AI|
+| **Web & Fullstack** | React · Angular · TypeScript · TailwindCSS · Docker|
+| **Backend** | Python · Java · Typescript · NestJS · Spring Boot · PostgreSQL|
+| **Tools & DevOps** | DVC · W&B · Git · GitLab · Linux · CI/CD Basics · Azure · AWS |
 
 ---
 
