@@ -9,7 +9,11 @@
 
 ### 🚀 About Me
 
-I'm an ambitious computer science student from Poland with a passion for **Artificial Intelligence** and **problem solving**. Currently pursuing a Master’s in AI, and loving every step of the journey. I thrive when learning new things, taking initiative, and contributing to meaningful projects — whether at university, on my own, or in competitions.
+My core focus is translating complex business problems into scalable and cost effective AI solutions. At Grid Dynamics, I autonomously built agentic modules, benchmarking and cost-analysis models for our CTO and drove a 30% reduction in solution costs by re-architecting platform components. I have hands-on experience deploying solutions on GCP and Azure.
+
+My primary expertise is in Data Science and Generative AI, and I am uniquely effective at building end-to-end solutions. I have a strong foundation in full-stack development from frontend in React and Angular to backend in Spring and NestJS which allows me to not only design complex models but also deploy them as scalable, production-ready applications.
+
+Beyond my project roles, I'm passionate about driving company wide efficiency. I recently took the initiative to audit internal cloud resource allocation, identifying and helping to eliminate significant resource waste. This action resulted in substantial and recurring monthly savings for the company.
 
 ---
 
