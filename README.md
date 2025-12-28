@@ -13,7 +13,7 @@ My core focus is translating complex business problems into scalable and cost ef
 
 My primary expertise is in Data Science and Generative AI, and I am uniquely effective at building end-to-end solutions. I have a strong foundation in full-stack development from frontend in React and Angular to backend in Spring and NestJS which allows me to not only design complex models but also deploy them as scalable, production-ready applications.
 
-Beyond my project roles, I'm passionate about driving company wide efficiency. I recently took the initiative to audit internal cloud resource allocation, identifying and helping to eliminate significant resource waste. This action resulted in substantial and recurring monthly savings for the company.
+Alongside my industry work, I conduct academic research in computer vision and generative AI for video, with a focus on restoring and enhancing archival footage. I’m currently developing a model for old movie restoration, aiming to push beyond the capabilities of existing state-of-the-art approaches in temporal consistency and detail reconstruction.
 
 ---
 
@@ -31,9 +31,11 @@ Beyond my project roles, I'm passionate about driving company wide efficiency. I
 
 ### 🧠 Certifications
 
+- ☁️ Google Cloud Associate Cerfied
+- 🇬🇧 **IELTS C1** – Academic English
 - 🧠 **Deep Learning Specialization** – DeepLearning.AI (2024)
 - 🔍 **A Deep Understanding of Deep Learning** – Udemy (2023)
-- 🇬🇧 **IELTS C1** – Academic English
+
 
 ---
 
