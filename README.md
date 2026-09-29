@@ -24,7 +24,7 @@ First-author work on restoring century-old film — two papers under review, plu
 ### DART: A Degradation-Aware Recurrent Transformer for Archival Film Restoration
 
 <a href="https://arxiv.org/abs/2607.21219"><img src="https://img.shields.io/badge/arXiv-2607.21219-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
-<img src="https://img.shields.io/badge/ACCV_2026-submitted-informational?style=flat-square" alt="ACCV 2026">
+<img src="https://img.shields.io/badge/ACCV_2026-accepted-informational?style=flat-square" alt="ACCV 2026">
 
 A recurrent transformer that predicts a soft defect mask and propagates it through time — reasoning explicitly about *where* footage is damaged and *how severely*, instead of reconstructing frames blindly.
 
@@ -36,7 +36,7 @@ A recurrent transformer that predicts a soft defect mask and propagates it throu
 ### AbsoluteDegradation: A Physics-Inspired Synthetic Film-Degradation Pipeline and Archival Benchmark
 
 <a href="https://arxiv.org/abs/2607.02131"><img src="https://img.shields.io/badge/arXiv-2607.02131-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
-<img src="https://img.shields.io/badge/NeurIPS_2026_D&B-submitted-informational?style=flat-square" alt="NeurIPS 2026 Datasets & Benchmarks">
+<img src="https://img.shields.io/badge/NeurIPS_2026_D&B-accepted-informational?style=flat-square" alt="NeurIPS 2026 Datasets & Benchmarks">
 
 A degradation pipeline that models the full analog-to-digital chain — signal-dependent grain, mean-reverting (Ornstein–Uhlenbeck) gate weave, parametric scratches — paired with a large real-world archival benchmark.
 
